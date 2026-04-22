@@ -15,7 +15,7 @@ We tested several classification algorithms such as Logistic Regression, Random 
 | Recall    | 1     |
 
 ## Future work
-As indicated in Results, not all handwriting tasks provide the same level of discrimination power. After evaluating our results, it is evident that some features are more useful for diagnosis than others. We can use actual handwriting to improve on our results.
+As indicated in Results, not all handwriting tasks provide the same level of discrimination power. After, evaluating our results, it is evident that some features are more useful for diagnosis than others. We can use actual handwriting to improve on our results.
 
 Decision support tools are gaining significant research interest due to their potential to improve health-care provision. Among many possible approaches, those that provide noninvasive monitoring and diagnosis of diseases are of increased interest to clinicians and biomedical engineers.
 
